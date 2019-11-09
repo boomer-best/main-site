@@ -1,2 +1,2 @@
-boomer time
-making awesome site yes?
+# boomer.best
+    making software for boomer
