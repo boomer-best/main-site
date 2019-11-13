@@ -14,3 +14,32 @@ body{
     text-align: center;
     color: #ffffff;
 }
+
+#links{
+    text-align: center;
+}
+
+#btn1 {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #9B363A;
+    border: solid #9B363A 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+ }
+ 
+ #btn1:hover {
+    background: #73282B;
+    border: solid #73282B 1px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    text-decoration: none;
+ }
