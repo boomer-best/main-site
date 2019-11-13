@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+body{
+    background-color:#2f2f2f;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+#title{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+#sub{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 1px;
+    font-size: 15px;
+}
+#bottom{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #ffffff;
+    font-size: 5px;
+}
+#blink{
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+#blink:hover{
+    color: #bdbdbd;
+    text-decoration: underline;
+    
+}
+.link{
+    color: #ffffff;
+}
+#center{
+    text-align: center;
+}
+#garbagetrees{
+    text-align: center;
+    color: #ffffff;
+}
+#rixee{
+    text-align: center;
+    color: #ffffff;
+}
+#gbl{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+}
+#gbl:hover{
+    text-decoration: underline;
+    color: #bdbdbd;;
+}
