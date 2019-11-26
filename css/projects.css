@@ -12,7 +12,7 @@ body{
 #sub{
     color: #ffffff;
     text-align: center;
-    margin-top: 1px;
+    margin-top: -20px;
     font-size: 15px;
 }
 #bottom{
@@ -22,7 +22,7 @@ body{
     right: 0;
     text-align: center;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 10px;
 }
 #blink{
     color: #ffffff;
@@ -39,6 +39,8 @@ body{
 }
 #center{
     text-align: center;
+    margin-top: 44px;
+    font-size: 15px;
 }
 #garbagetrees{
     text-align: center;
