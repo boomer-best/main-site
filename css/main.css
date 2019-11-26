@@ -10,7 +10,38 @@ body{
     font-size: 40px;
 }
 #text2{
-    margin-top: -20px;
+    margin-top: -25px;
     text-align: center;
     color: #ffffff;
+    font-size: 20px;
 }
+
+#links{
+    text-align: center;
+}
+
+#btn1 {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #9B363A;
+    border: solid #9B363A 1px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 23px;
+ }
+ 
+ #btn1:hover {
+    background: #73282B;
+    border: solid #73282B 1px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
