@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boomer-best/main-site/issues"
   },
-  "homepage": "https://github.com/boomer-best/main-site#readme"
+  "homepage": "https://github.com/boomer-best/main-site#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
